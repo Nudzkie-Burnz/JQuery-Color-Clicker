@@ -1,1 +1,1 @@
-# JQuery-Color-Clicker
+# JQuery Color Clicker
